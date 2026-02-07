@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'C:\Users\craim\OneDrive\Coding\word\WordStudy\word_memorizer\lib\screens\home_screen.dart.dart'; // <--- HomeScreen 연결
+// ignore: unnecessary_string_escapes
+import 'screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
